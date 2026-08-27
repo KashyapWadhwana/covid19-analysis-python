@@ -1,11 +1,14 @@
-# covid19-analysis-python
-# Project Overview
+# COVID-19 Pandemic Analysis Using Python
 
-Analyzed COVID-19 confirmed cases, deaths and recoveries
-to understand the progression and impact of the pandemic
-across different countries.
+## 📌 Project Overview
 
-## Tools Used
+This project analyzes the progression and impact of the COVID-19
+pandemic using confirmed cases, deaths, and recoveries data.
+
+The analysis focuses on identifying trends over time, comparing
+countries, and understanding mortality and recovery patterns.
+
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
@@ -13,25 +16,12 @@ across different countries.
 - Matplotlib
 - Jupyter Notebook
 
-## Key Analysis
+## 🎯 Objectives
 
-- Confirmed cases over time
-- Death trends
-- Recovery trends
-- Monthly COVID-19 analysis
-- Death rate analysis
-- Recovery rate analysis
-- Country comparisons
-- United States, Italy and Brazil comparison
-
-## Key Insights
-
-- Analyzed the progression of COVID-19 over time.
-- Compared deaths and recoveries across countries.
-- Identified countries with higher average death rates.
-- Analyzed monthly recovery ratios for the United States.
-
-## Files
-
-- `COVID_19_Analysis.ipynb` – Python analysis
-- `covid_19.xlsx` – Dataset
+- Analyze confirmed COVID-19 cases over time
+- Analyze deaths and recoveries across countries
+- Calculate death rates
+- Calculate recovery ratios
+- Perform monthly analysis
+- Compare the United States, Italy, and Brazil
+- Identify countries with higher average death rates
